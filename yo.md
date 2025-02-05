@@ -1,4 +1,4 @@
-#**Cordial saludo, soy _Andrés Daniel_**
+**Cordial saludo, soy _Andrés Daniel_**
 ## Perfil profesional.
 Soy fisioterapeuta y tengo una maestría en epidemiología. Actualmente soy estudiante de segundo año del doctorado en epidemiología clínica. Trabajo como docente universitario y enseño metodología de la investigación para pregrados en salud. 
 ## Vida personal.
